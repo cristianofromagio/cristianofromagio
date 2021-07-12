@@ -8,6 +8,5 @@ When I'm not on coding mode, I enjoy running in the afternoon, look for underwat
 I'm also right-eye blind (Coats' Disease) which means 3D movies are boring and some handshakes may go unnoticed.
 
 <p align="center">
-  <img width="69%" src="https://wakatime.com/share/@cristianofromagio/c17a0913-7def-4f2c-b0d2-d864f4c73236.svg" alt="Coding graph of languages I've used over the past 30 days (powered by Wakatime)"/>
+  <img width="69%" src="https://wakatime.com/share/@cristianofromagio/c17a0913-7def-4f2c-b0d2-d864f4c73236.png" alt="Coding graph of languages I've used over the past 30 days (powered by Wakatime)"/>
 </p>
-  
